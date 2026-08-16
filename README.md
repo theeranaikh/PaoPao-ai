@@ -1,3 +1,4 @@
+HEAD
 # PaoPao
 
 PaoPao is a Python-first coding LLM and local coding agent. Its decoder-only Transformer and Byte-Level BPE tokenizer are trained **from scratch** with PyTorch. It does not download, load, or inherit pretrained model weights or tokenizers.
@@ -177,3 +178,7 @@ PaoPao never grants administrator privileges. It blocks destructive and common n
 ## License
 
 MIT. See [LICENSE](LICENSE).
+
+# PaoPao-ai
+e5ee2a3441e06de632000cf0289fe4d8c1cee869
+	
