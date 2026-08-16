@@ -1,0 +1,2 @@
+"""PaoPao command-line interface."""
+
